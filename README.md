@@ -27,24 +27,10 @@ Este projeto tem como objetivo oferecer uma solução prática, funcional e visu
 
 ---
 
-## 📂 Estrutura da Planilha
-
-- `APP`: Página principal para preenchimento e controle
-- `tabelas`: Dados auxiliares utilizados em validações e menus suspensos
-
----
-
 ## 🧠 Aprendizados
 
 Durante o desenvolvimento, foram aplicados conceitos fundamentais de organização de dados, automação com fórmulas, design de interfaces no Excel e boas práticas de estruturação de planilhas voltadas à usabilidade.
 
----
-
-## 🖼️ Capturas de Tela
-
-As imagens da aplicação podem ser encontradas na pasta `/images` deste repositório.
-
----
 
 ## 🚀 Como Usar
 
@@ -64,6 +50,8 @@ Design inspirado por soluções modernas de UX no Excel e otimizado para uso pr�
 ---
 
 ## 🔒 Observação
+
+🔒 Senha para edição: 012345
 
 Esta planilha **não substitui** sistemas oficiais da Receita Federal. É uma ferramenta de apoio para organização pessoal.
 
